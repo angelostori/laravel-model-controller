@@ -9,3 +9,15 @@
 
 // Bootstrap-icons
 @import 'bootstrap-icons/font/bootstrap-icons.css';
+
+nav.nav-bg {
+    background-color: #0d6efd;
+    color: white;
+}
+
+nav div {
+    max-width: 70%;
+    height: 100px;
+    align-items: center;
+    margin: auto;
+}
